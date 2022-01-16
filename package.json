@@ -1,0 +1,26 @@
+{
+  "name": "bot-link-api",
+  "version": "1.0.0",
+  "description": "An API wrapper for the bot link API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TurtlePaw/bot-link-api.git"
+  },
+  "keywords": [
+    "bot-link-api",
+    "bot-link"
+  ],
+  "author": "Turtlepaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TurtlePaw/bot-link-api/issues"
+  },
+  "homepage": "https://github.com/TurtlePaw/bot-link-api#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
